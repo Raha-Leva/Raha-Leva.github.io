@@ -2,7 +2,7 @@
 
 # Welcome to Raha's Website
 
-Hi, I'm Raha! I'm a student at Boise State University studying computer science.
+I'm a student at Boise State University double majoring in Computer Science and Mechanical Engineering. I'm interested in programming, engineering, technology, and cars. I enjoy learning how computers and software work while also working on hands-on mechanical projects.
 
 ## About Me
 
